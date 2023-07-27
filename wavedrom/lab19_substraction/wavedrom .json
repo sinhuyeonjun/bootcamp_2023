@@ -1,0 +1,8 @@
+{signal: [
+  {name: 'clk', wave: 'p...........' },
+  {name: 'n_rst', wave: 'lnh.........'},                                                 
+  {name: 'in_a', wave: '=.....=.....', data: ["1111","1111"] },
+  {name: 'in_b', wave: '=.....=.....', data: ["1001","1001"] },
+  {},
+  {name: 'product', wave: '=.....=.....', data: ["0110","0111"]}
+]}

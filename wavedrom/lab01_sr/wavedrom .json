@@ -1,0 +1,9 @@
+{signal: [
+  {name: 'clk', wave: 'P...........'},
+  {name: 'n_rst', wave: 'lnh.........'},
+  {name: 'in_a', wave: 'l.....h.....'},
+  {name: 'in_b', wave: 'l..h..l..h..'},
+  {},
+  {name: 'out_a', wave: 'l...h..l..Z.'},
+  {name: 'out_b', wave: 'h...l..h..Z.'}
+]}

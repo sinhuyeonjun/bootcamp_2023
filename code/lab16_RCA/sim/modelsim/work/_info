@@ -1,0 +1,176 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+vfull_adder1bit
+!i10b 1
+Z1 !s100 h9`bl@jOnn6]Cg<UfL?Rl2
+Z2 Ib:ncETO8=_QM3kXiiSHg90
+Z3 V?^L=CLGMLWD<TV_P2f@cZ1
+Z4 dC:\verilog\bootcamp2023\code\lab16_RCA\sim\modelsim
+Z5 w1688532458
+Z6 8../../src/rtl/full_adder1bit.v
+Z7 F../../src/rtl/full_adder1bit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1688612679.863000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/full_adder32bit.v|../../src/rtl/full_adder4bit.v|../../src/rtl/full_adder1bit.v|../../src/rtl/half_adder.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vfull_adder32bit
+!i10b 1
+Z12 !s100 FTCKThzR0`DzP9`WMOAJ03
+Z13 Ija=90<M8;h9n^>3hh54]?1
+Z14 VlA>Xm;]G7aSh2397FROJb1
+R4
+Z15 w1688532746
+Z16 8../../src/rtl/full_adder32bit.v
+Z17 F../../src/rtl/full_adder32bit.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vfull_adder4bit
+!i10b 1
+Z18 !s100 c4Zaf][5N3OZ:;Jh3omU62
+Z19 I62@W^PT^dW]C78PT9CVMK2
+Z20 V0AQodfKQi9:a6<P^=CKYP1
+R4
+Z21 w1688526073
+Z22 8../../src/rtl/full_adder4bit.v
+Z23 F../../src/rtl/full_adder4bit.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vfull_adderbit1
+Z24 IfYzZ1PzoY<JK^[9Hm9UFo2
+Z25 VETc_AZfa2FW[NGUV1b>Fh1
+R4
+Z26 w1688523889
+R6
+R7
+L0 1
+R8
+r1
+31
+Z27 !s108 1688523898.754000
+Z28 !s107 ../../testbench/testbench.v|../../src/rtl/full_adder1bit.v|../../src/rtl/half_adder.v|
+R11
+o-O0
+Z29 !s100 _N02i_k@T0CmQig]ZPdBb0
+!i10b 1
+!s85 0
+!s101 -O0
+vhalf_adder
+!i10b 1
+Z30 !s100 XzziZ]_V[cZ8:FCXk55Vl2
+Z31 IbTFYPl87F_^<J_6I0W:eO3
+Z32 VnQ;hcVWMKagR9EQjZg<G60
+R4
+Z33 w1688524027
+Z34 8../../src/rtl/half_adder.v
+Z35 F../../src/rtl/half_adder.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vmoore
+Z36 !s100 @nXWe>68J1`C<HhGC9NlO1
+Z37 IlfR=jGPc9FCK05WzKQdH;2
+Z38 V^5ETegidb?IIYJM@KfUWR1
+Z39 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+Z40 w1673509999
+Z41 8../../src/rtl/moore.v
+Z42 F../../src/rtl/moore.v
+L0 1
+R8
+r1
+31
+Z43 !s108 1673510424.031000
+Z44 !s107 ../../testbench/testbench.v|../../src/rtl/moore.v|
+R11
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vparity_even
+Z45 !s100 1]LKT3CBF>dR:=PWTl=4h2
+Z46 Ib610XV9[2>Ijkn>[<[9h23
+Z47 VL1aaV6G<AmnEXg2A`6neZ2
+Z48 dC:\verilog\bootcamp2023\code\lab15_parity_even\sim\modelsim
+Z49 w1688474138
+Z50 8../../src/rtl/parity_even.v
+Z51 F../../src/rtl/parity_even.v
+L0 1
+R8
+r1
+31
+Z52 !s108 1688474206.000000
+Z53 !s107 ../../testbench/testbench.v|../../src/rtl/parity_even.v|
+R11
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vsr
+Z54 !s100 Uo`mDTda;PBonUo@[eoW30
+Z55 I[BbnYcn6T7Bz;_J<=EHS43
+Z56 Vk=m6hDV?9^[9ZGd;c@Bk31
+Z57 dC:\verilog\bootcamp2023\code\lab01_sr\sim\modelsim
+Z58 w1688433196
+Z59 8../../src/rtl/sr.v
+Z60 F../../src/rtl/sr.v
+L0 1
+R8
+r1
+31
+Z61 !s108 1688454235.627000
+Z62 !s107 ../../testbench/testbench.v|../../src/rtl/sr.v|
+R11
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+Z63 !s100 M1]YVKU;=oSRe2KX77eZW2
+Z64 I@K@JQG2bl^0iA7ARhWYC71
+Z65 VhGfW:390DM[oDMzegDH9`2
+R4
+Z66 w1688532786
+Z67 8../../testbench/testbench.v
+Z68 F../../testbench/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+vgray_counter
+!i10b 1
+!s100 8cEd;7^L8?a<I2S2FU5NA0
+I;S1FnJfPn:N>falSJMJYB0
+Z1 VC17_T;=:DHTUZ^oP5a]Rh2
+Z2 dC:\verilog\bootcamp2023\code\lab13_gray_counter\sim\modelsim
+w1689566730
+Z3 8../../src/rtl/gray_counter.v
+Z4 F../../src/rtl/gray_counter.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1689566748.539000
+Z7 !s107 ../../testbench/testbench.v|../../src/rtl/gray_counter.v|
+Z8 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vjhson_counter
+Z9 !s100 bo00n8fjoAzhDFE<1;FzG1
+Z10 IYlNROV6G7`C^YOSHR[QMM1
+Z11 V0G@aUW0Go4zAB2^2n7Lo[0
+Z12 dC:\verilog\bootcamp2023\code\lab12_jhonson_counter\sim\modelsim
+Z13 w1688458973
+Z14 8../../src/rtl/jhson_counter.v
+Z15 F../../src/rtl/jhson_counter.v
+L0 1
+R5
+r1
+31
+Z16 !s108 1688458992.859000
+Z17 !s107 ../../testbench/testbench.v|../../src/rtl/jhson_counter.v|
+R8
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vmoore
+Z18 !s100 @nXWe>68J1`C<HhGC9NlO1
+Z19 IlfR=jGPc9FCK05WzKQdH;2
+Z20 V^5ETegidb?IIYJM@KfUWR1
+Z21 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+Z22 w1673509999
+Z23 8../../src/rtl/moore.v
+Z24 F../../src/rtl/moore.v
+L0 1
+R5
+r1
+31
+Z25 !s108 1673510424.031000
+Z26 !s107 ../../testbench/testbench.v|../../src/rtl/moore.v|
+R8
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vsr
+Z27 !s100 Uo`mDTda;PBonUo@[eoW30
+Z28 I[BbnYcn6T7Bz;_J<=EHS43
+Z29 Vk=m6hDV?9^[9ZGd;c@Bk31
+Z30 dC:\verilog\bootcamp2023\code\lab01_sr\sim\modelsim
+Z31 w1688433196
+Z32 8../../src/rtl/sr.v
+Z33 F../../src/rtl/sr.v
+L0 1
+R5
+r1
+31
+Z34 !s108 1688451081.738000
+Z35 !s107 ../../testbench/testbench.v|../../src/rtl/sr.v|
+R8
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+Z36 !s100 C]CT5jMSjIKlM[HTT[W=F2
+Z37 I40hk4ifDKkN5FVWUBh7?W3
+Z38 VhGfW:390DM[oDMzegDH9`2
+R2
+Z39 w1688471477
+Z40 8../../testbench/testbench.v
+Z41 F../../testbench/testbench.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+o-O0

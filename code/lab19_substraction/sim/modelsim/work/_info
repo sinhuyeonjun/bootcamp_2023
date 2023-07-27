@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+vfull_adder1bit
+!i10b 1
+Z1 !s100 h9`bl@jOnn6]Cg<UfL?Rl2
+Z2 Ib:ncETO8=_QM3kXiiSHg90
+Z3 V?^L=CLGMLWD<TV_P2f@cZ1
+Z4 dC:\verilog\bootcamp2023\code\lab19_substraction\sim\modelsim
+Z5 w1688532458
+Z6 8../../src/rtl/full_adder1bit.v
+Z7 F../../src/rtl/full_adder1bit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1689567859.749000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/substraction.v|../../src/rtl/full_adder4bit.v|../../src/rtl/full_adder1bit.v|../../src/rtl/half_adder.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vfull_adder4bit
+!i10b 1
+Z12 !s100 jE6kQ:M2;n_glKW=Pazh>1
+Z13 IE@oPZW]cez493l9@?>5Ph3
+Z14 V0AQodfKQi9:a6<P^=CKYP1
+R4
+Z15 w1689567730
+Z16 8../../src/rtl/full_adder4bit.v
+Z17 F../../src/rtl/full_adder4bit.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vhalf_adder
+!i10b 1
+Z18 !s100 XzziZ]_V[cZ8:FCXk55Vl2
+Z19 IbTFYPl87F_^<J_6I0W:eO3
+Z20 VnQ;hcVWMKagR9EQjZg<G60
+R4
+Z21 w1688524027
+Z22 8../../src/rtl/half_adder.v
+Z23 F../../src/rtl/half_adder.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vmoore
+Z24 !s100 @nXWe>68J1`C<HhGC9NlO1
+Z25 IlfR=jGPc9FCK05WzKQdH;2
+Z26 V^5ETegidb?IIYJM@KfUWR1
+Z27 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+Z28 w1673509999
+Z29 8../../src/rtl/moore.v
+Z30 F../../src/rtl/moore.v
+L0 1
+R8
+r1
+31
+Z31 !s108 1673510424.031000
+Z32 !s107 ../../testbench/testbench.v|../../src/rtl/moore.v|
+R11
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vparity_even
+Z33 !s100 1]LKT3CBF>dR:=PWTl=4h2
+Z34 Ib610XV9[2>Ijkn>[<[9h23
+Z35 VL1aaV6G<AmnEXg2A`6neZ2
+Z36 dC:\verilog\bootcamp2023\code\lab15_parity_even\sim\modelsim
+Z37 w1688474138
+Z38 8../../src/rtl/parity_even.v
+Z39 F../../src/rtl/parity_even.v
+L0 1
+R8
+r1
+31
+Z40 !s108 1688474206.000000
+Z41 !s107 ../../testbench/testbench.v|../../src/rtl/parity_even.v|
+R11
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vsr
+Z42 !s100 Uo`mDTda;PBonUo@[eoW30
+Z43 I[BbnYcn6T7Bz;_J<=EHS43
+Z44 Vk=m6hDV?9^[9ZGd;c@Bk31
+Z45 dC:\verilog\bootcamp2023\code\lab01_sr\sim\modelsim
+Z46 w1688433196
+Z47 8../../src/rtl/sr.v
+Z48 F../../src/rtl/sr.v
+L0 1
+R8
+r1
+31
+Z49 !s108 1688454235.627000
+Z50 !s107 ../../testbench/testbench.v|../../src/rtl/sr.v|
+R11
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vsubstraction
+!i10b 1
+Z51 !s100 AJLWa01JgL20H]OS5d>3U1
+Z52 IhJ_b0Xf^A47c2G>Io1UCl2
+Z53 VhAZ4AF39bjNiozgJ^l>_=3
+R4
+Z54 w1689567554
+Z55 8../../src/rtl/substraction.v
+Z56 F../../src/rtl/substraction.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 DbOVNT<7S@I3T:bKPoEG>3
+IXVlG4ggh1:>J[]6[k^SBA1
+Z57 VhGfW:390DM[oDMzegDH9`2
+R4
+w1689567850
+Z58 8../../testbench/testbench.v
+Z59 F../../testbench/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

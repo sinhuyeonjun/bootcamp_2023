@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+vencoder
+!i10b 1
+!s100 bG87:jOC1<Yd>bJk]b7[_1
+IL88@=:GLE@IBTkFQAhbf23
+V^Rcz5@L4b=k7`NE>ZEG;B1
+Z1 dC:\verilog\bootcamp2023\code\lab06_encoder\sim\modelsim
+w1688444530
+8../../src/rtl/encoder.v
+F../../src/rtl/encoder.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z3 !s108 1688444531.518000
+Z4 !s107 ../../testbench/testbench.v|../../src/rtl/encoder.v|
+Z5 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vmoore
+Z6 !s100 @nXWe>68J1`C<HhGC9NlO1
+Z7 IlfR=jGPc9FCK05WzKQdH;2
+Z8 V^5ETegidb?IIYJM@KfUWR1
+Z9 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+Z10 w1673509999
+Z11 8../../src/rtl/moore.v
+Z12 F../../src/rtl/moore.v
+L0 1
+R2
+r1
+31
+Z13 !s108 1673510424.031000
+Z14 !s107 ../../testbench/testbench.v|../../src/rtl/moore.v|
+R5
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vsr
+Z15 !s100 Uo`mDTda;PBonUo@[eoW30
+Z16 I[BbnYcn6T7Bz;_J<=EHS43
+Z17 Vk=m6hDV?9^[9ZGd;c@Bk31
+Z18 dC:\verilog\bootcamp2023\code\lab01_sr\sim\modelsim
+Z19 w1688433196
+Z20 8../../src/rtl/sr.v
+Z21 F../../src/rtl/sr.v
+L0 1
+R2
+r1
+31
+Z22 !s108 1688433619.001000
+Z23 !s107 ../../testbench/testbench.v|../../src/rtl/sr.v|
+R5
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+Z24 !s100 a6Xg=z9Vd;NDfBaEKRzd[0
+Z25 I43ZR_Y_?F0m7T>MTFo^5O2
+Z26 VhGfW:390DM[oDMzegDH9`2
+R1
+Z27 w1688444422
+Z28 8../../testbench/testbench.v
+Z29 F../../testbench/testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+o-O0
